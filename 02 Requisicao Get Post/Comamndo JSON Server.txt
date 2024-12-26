@@ -33,7 +33,6 @@ Wrote to C:\dev\Javascript implementando crud requisicoes http\01 Primeira Requi
 }
 
 
-cd backend
 PS C:\dev\Javascript implementando crud requisicoes http\01 Primeira Requisicao\backend> npm start
 
 > backend@1.0.0 start
